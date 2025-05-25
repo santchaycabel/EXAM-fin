@@ -46,3 +46,5 @@ for (let i = 0; i < 5; i++) {
 
 // Optional: Test pop
 // pop(); // You can uncomment this line to test removing an item
+
+    // REFERENCE: https://www.geeksforgeeks.org/javascript-multidimensional-array/
