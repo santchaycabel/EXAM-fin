@@ -20,3 +20,5 @@ console.log("Restructured Multi-Dimensional Array:");
 restructuredArray.forEach(pair => {
     console.log(pair);
 });
+
+//REFERENCE: https://www.geeksforgeeks.org/javascript-multidimensional-array/
