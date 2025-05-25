@@ -13,3 +13,5 @@ let arrangeNames = [names].sort();
 console.log("Combined:", combine);
 console.log("Sorted Numbers:", arrange);
 console.log("Sorted Names:", arrangeNames);
+
+//REFERENCE: https://www.w3schools.com/js/js_arrays.asp
