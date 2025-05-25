@@ -18,3 +18,5 @@ console.log("Is palindrome?", name1 === reversedName1); //Check the truth values
 console.log("Original Name2:", name2);
 console.log("Reversed Name2:", reversedName2);
 console.log("Is palindrome?", name2 === reversedName2); //Check the false values
+
+//REFERENCE: https://www.geeksforgeeks.org/string-arrays-in-java/
